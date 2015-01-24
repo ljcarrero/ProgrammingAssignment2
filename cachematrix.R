@@ -2,7 +2,7 @@
 ## in an efficient way by making a cached copy of it
 
 ## makeCacheMatrix crates a list of functions representing a matrix
-## with the methos get, set, getinverse and setinverse
+## with the methods get, set, getinverse and setinverse
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
